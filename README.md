@@ -1,6 +1,6 @@
 👋 Hi, I’m @schneidemar
 
-I'm a developer at [AGVOLUTION](https://github.com/AGVOLUTION/) and work mainly with python at the moment.
+I'm a developer at [AGVOLUTION](https://github.com/AGVOLUTION/) and work mainly with python and TypeScript at the moment.
 
 <!---
 schneidemar/schneidemar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
